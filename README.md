@@ -1,4 +1,4 @@
-A random assortment of half baked projects.
+A random assortment of projects.
 
 <!---
 davewhiteford/davewhiteford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
